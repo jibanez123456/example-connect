@@ -1,1 +1,1 @@
-# example-smartlock-connect
+# example-connect
