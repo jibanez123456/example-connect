@@ -1,0 +1,149 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.3
+
+Name: assets/www/build/main.js.map
+SHA1-Digest: Qme+x4i9S1DWPxMNM55VZEYN7io=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: /mJ5H2qTR9Bi2LjUspEVgxlBB+g=
+
+Name: AndroidManifest.xml
+SHA1-Digest: trsY42AW8ZWfgZ/mDSLnDA/4XWI=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: fFhQK7WwxWwQ/i6ZpgddkpgaAy8=
+
+Name: assets/www/plugins/ionic-plugin-keyboard/www/android/keyboard.js
+SHA1-Digest: gUndp8NYZgEtqC5lnJ47rGaPCYc=
+
+Name: assets/www/service-worker.js
+SHA1-Digest: 8DWPjDE+KUAAOpkE8WdqX6l5YS8=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA1-Digest: mSyKoFaNzzykLHlaTNcZwi0x+SU=
+
+Name: assets/www/cordova.js
+SHA1-Digest: bzOPxodj9BcMKHm34BndzTZPFPA=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: FVwW8q5pXNyqdiSUoAgfev5NTHs=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: oevFoylHuxybD98SHMM2ZcRww7Q=
+
+Name: res/xml/config.xml
+SHA1-Digest: C+R3GZimWJWrf3R+wDguR1a3MWs=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: 5oVmn5JKvV0bYBYxUUAb/VKX30g=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: 28GS8psUk+YLEpXlpsCK4EbpLsA=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: OsVoIJRDvVGDn85Sig7tMPHwkZE=
+
+Name: assets/www/build/main.js
+SHA1-Digest: grcUQDVpHnxBcrgb4viYimcEloc=
+
+Name: assets/www/build/main.css
+SHA1-Digest: 93ACeG1dSvTKtj+Nlgj68UE5O1s=
+
+Name: assets/www/build/polyfills.js
+SHA1-Digest: dw+qByw9ymXL1G1ycd2OLWJr6GA=
+
+Name: res/drawable-land-xxxhdpi-v4/screen.png
+SHA1-Digest: H9Sg3FAXXme6PdH+yWgVstM3GGY=
+
+Name: assets/www/build/main.css.map
+SHA1-Digest: K+iMpCQsduglOsYkdIUQZQMtaDM=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: 6bppgYENH6dqJ1icHsXLCzUXdGc=
+
+Name: assets/www/assets/icon/favicon.ico
+SHA1-Digest: x3lRKHSpk9p38F301+Ktm14/9DM=
+
+Name: assets/www/plugins/cordova-plugin-ble-central/www/ble.js
+SHA1-Digest: AAhx9Dx6qVVVZ4HvRYc8MqlVTgc=
+
+Name: assets/www/manifest.json
+SHA1-Digest: HR505fpvAsEq+F1n9SBsE8vpVSQ=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: f7p1rHw6kBqunadJYz5vUi7ZElM=
+
+Name: res/drawable-land-xxhdpi-v4/screen.png
+SHA1-Digest: MKzu2g+E7BfJWuP/wjuTUDLCepk=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: 7dvUDS6A2VloYRBBrSlaEsCEsXw=
+
+Name: assets/www/index.html
+SHA1-Digest: DQ0jappM4XfE8bYGWv3yb6Dc5/U=
+
+Name: assets/www/assets/fonts/ionicons.woff
+SHA1-Digest: 0ocalkrbgCf5t2XDpT+V0TkvKz8=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: WY63KRIwUfBJT7ADJajHaAGlUMA=
+
+Name: assets/www/build/sw-toolbox.js
+SHA1-Digest: T1qyFAGAzjWMGMIjeesugfjtGAw=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: YL57XE/shIPPjRuXjMT8qxM7vnM=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: NRtFMwHLO3A2WJBIdCL966tRRGQ=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: 2p+j6Q4ZKTJckLvKrznslTSzUdY=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: ZplZbKdClFPSsaHmr9sh3gnAf8k=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: n2E0W8B/grOxM2ORx/haAYOWIcA=
+
+Name: assets/www/assets/fonts/ionicons.woff2
+SHA1-Digest: eApJg7kU998bJ9ej8VCz3OJ63ao=
+
+Name: resources.arsc
+SHA1-Digest: blRBj04O6i6VMGaXybjTzK1lO40=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: IjG2HbjfFboHzCYSkKp0IqdaKek=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA1-Digest: 4E19BkqSBqY4Ve/SzTxeGSl19ZU=
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: hDT++3ZaOTp3t16AAFAibxtovj0=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: A7BC4etS9bFIzKKjf8xg4jH3oqM=
+
+Name: classes.dex
+SHA1-Digest: ymMPZdVVt8gdyc+5lhidS69VSdg=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: DTU6crFHQ6fQ4u2s5PfxW9+moGg=
+
+Name: assets/www/build/vendor.js
+SHA1-Digest: 76J7enahnY42KYeejgb8qxJO9R0=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: GFfCR10Fo2pWF2KCiHKoyrUcd3I=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: 1GfO/IDwwyLde/veo05ABQB5yTk=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: KWoKUs0KZYOcoA+tOwN+UGei52w=
+
+Name: assets/www/build/vendor.js.map
+SHA1-Digest: Eo+UNYnXAjEMWko4LsAjvpbLQE4=
+

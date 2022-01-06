@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: SmartLock BLE_com.example.ble.connect 1.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/www/assets/icon/favicon.ico
+- assets/www/build/main.css.map
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '26'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.6.0
+versionInfo:
+  versionCode: '1'
+  versionName: 0.0.1
